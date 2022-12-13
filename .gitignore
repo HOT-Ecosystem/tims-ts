@@ -11,3 +11,6 @@
 !/hapi-jpa-ext/hapi-run/application-*
 
 /bin/env.sh
+
+# OAK
+.template.db
