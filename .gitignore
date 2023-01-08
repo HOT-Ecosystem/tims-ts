@@ -1,9 +1,16 @@
+/.idea/
+/.m2/
 /.venv/
+/cache/
 /logs/
+/output/
 /postgres/
+
 /hapi-jpa-ext/**
 !/hapi-jpa-ext/hapi-run
 !/hapi-jpa-ext/hapi-run/application-*
-/.m2/
-/.idea/
+
 /bin/env.sh
+
+# OAK
+.template.db
